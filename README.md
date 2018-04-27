@@ -3,7 +3,7 @@
 
 
 ### Example:
-- Consider Gooogle Docs -> User inputs the heading "Heading 1" then on side pane, the HTML code should be generated like below
+- Consider a web UI like Gooogle Docs -> User inputs the heading "Heading 1" then on side pane, the HTML code should be generated like below
 
 ```
 <!DOCTYPE html>
