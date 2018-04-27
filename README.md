@@ -1,5 +1,5 @@
 # HTMLCodeGeneratorFromUI (Fun-Den Project)
-- Have a UI where user can drag and drop stuffs and do actions such as Title, Headings, Text Formattings, Text Box, Drop down boxes, check boxes, so on... such that after completion of that, user can click generate HTML code and retrieve those HTML codes.
+- Have a UI where user can drag and drop stuffs or do actions such as typing Title, Headings, Text Formattings, Text Box, Drop down boxes, check boxes, so on... such that on side pane corresponding HTML codes should be generated based on the stuffs user do.
 
 
 ### Example:
